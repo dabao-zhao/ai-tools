@@ -17,10 +17,15 @@ Bard 是谷歌在一个大型语言模型基础上，推出的聊天机器人。
 Midjourney 是一款 AI 制图工具，只要关键字，就能透过 AI 算法生成相对应的图片，只需要不到一分钟。
 ### [文心一格](https://yige.baidu.com/)   
 文心·一格是基于文心大模型的文生图系统实现的产品化创新
+### [NovelAI](https://novelai.net/)
+本来是个 AI 写文章的网站，现在也支持二次元的绘画
 
 ## 文本
 ### [ChatPdf](https://www.chatpdf.com/)   
 ChatPDF 能够快速解析 PDF 文件内容，生成准确的答案以回答你的问题。
+### [NotionAI](https://www.notion.so/product/ai)
+Notion是一款集成了笔记、知识库、数据表格、看板、日历等多种能力于一体的应用程序，它支持个人用户单独使用，也可以与他人进行跨平台协作。
+
 ## 客户端
 ### [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 
