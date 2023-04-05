@@ -21,6 +21,8 @@ Midjourney 是一款 AI 制图工具，只要关键字，就能透过 AI 算法�
 文心·一格是基于文心大模型的文生图系统实现的产品化创新
 ### [NovelAI](https://novelai.net/)
 本来是个 AI 写文章的网站，现在也支持二次元的绘画
+### [Civitai](https://civitai.com/)
+模型资源共享网站
 
 ## 文本
 ### [ChatPdf](https://www.chatpdf.com/)   
@@ -40,5 +42,7 @@ GitHub Copilot 基于 GitHub 及其他网站的源代码，可根据上文提示
 一款基于 GPT-4 技术的代码编辑器
 ### [CodeGeex](https://codegeex.cn/)  
 CodeGeeX 可以根据自然语言注释描述的功能自动生成代码，也可以根据已有的代码自动生成后续代码，补全当前行或生成后续若干行，帮助你提高编程效率。
+### [learnprompting](https://learnprompting.org/zh-Hans/docs/intro)
+提示工程师教程
 
 欢迎大家进行补充！
