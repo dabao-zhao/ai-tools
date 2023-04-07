@@ -49,4 +49,8 @@ GitHub Copilot平替，Codeium 可以通过 AI 帮助开发者生成代码，目
 ### [LearnPrompting](https://learnprompting.org/zh-Hans/docs/intro)
 提示工程师教程
 
+## License
+
+[MIT License](https://github.com/dabao-zhao/ai-nav/edit/main/LICENSE.md)
+
 欢迎大家进行补充！
