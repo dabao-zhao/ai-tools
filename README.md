@@ -51,6 +51,10 @@ GitHub Copilot平替，Codeium 可以通过 AI 帮助开发者生成代码，目
 ### [LearnPrompting](https://learnprompting.org/zh-Hans/docs/intro)
 提示工程师教程
 
+## 其他
+### [OPS/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
+这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具
+
 ## License
 
 [MIT License](https://github.com/dabao-zhao/ai-nav/edit/main/LICENSE.md)
