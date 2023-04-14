@@ -58,6 +58,8 @@ Bash 命令自动生成。你在命令行描述想要的操作，它通过 OpenA
 ## 其他
 ### [OPS/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)
 这是一个旨在把 AIGC 提示词（现在支持 Midjourney）可视化并提供编辑功能的工具
+### [Cheetah](https://github.com/leetcode-mafia/cheetah)
+用于远程面试，它会把面试官的提问自动转成文字（Whisper 模型），传给 OpenAI，然后将结果显示在你的屏幕上
 
 ## License
 
