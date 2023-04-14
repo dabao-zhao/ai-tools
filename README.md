@@ -44,6 +44,10 @@ GitHub Copilot 基于 GitHub 及其他网站的源代码，可根据上文提示
 CodeGeeX 可以根据自然语言注释描述的功能自动生成代码，也可以根据已有的代码自动生成后续代码，补全当前行或生成后续若干行，帮助你提高编程效率。
 ### [Codeium](https://codeium.com/)
 GitHub Copilot平替，Codeium 可以通过 AI 帮助开发者生成代码，目前已支持 Visual Studio、JetBrains 等多个常见 IDE 以及多个浏览器。目前个人使用免费。
+### [CLI-Co-Pilot](https://github.com/AntonOsika/CLI-Co-Pilot)
+Bash 命令自动生成。你在命令行描述想要的操作，它通过 OpenAI 返回对应的命令并执行
+### [AI Shell](https://github.com/BuilderIO/ai-shell)
+同上
 
 ## 教程
 ### [提示工程师](https://github.com/dair-ai/Prompt-Engineering-Guide)    
