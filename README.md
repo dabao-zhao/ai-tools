@@ -4,18 +4,15 @@
 
 ## 聊天
 
-### [ChatGPT](https://chat.openai.com/)  
-ChatGPT 是由 OpenAI 开发的一款基于人工智能技术的对话机器人，使用自然语言处理和机器学习算法，可以理解和生成类似人类语言的对话。
-### [New Bing](https://www.bing.com/new)   
-新必应提供可靠的最新结果，并提供问题的完整答案。当然，它还会引用来源。
-### [Google Bard](https://bard.google.com/)   
-Bard 是谷歌在一个大型语言模型基础上，推出的聊天机器人。Bard 背后的力量是 Google 的对话应用语言模型，又名 LaMDA。Bard 是基于 LaMDA 的轻量级版本，使用更少的计算能力，使其能够扩展到更多的人，并提供额外的反馈。
-### [文心一言](https://yiyan.baidu.com/welcome)   
-百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。
-### [ChitGPT](https://so.csdn.net/so/ask)
-由 CSDN 研发的生成式 AI 产品 ChitGPT
-### [通义千问](https://tongyi.aliyun.com/)
-阿里的大模型
+| 名称 | 描述 |
+|---|:---:|
+| [ChatGPT](https://chat.openai.com/)  | ChatGPT 是由 OpenAI 开发的一款基于人工智能技术的对话机器人，使用自然语言处理和机器学习算法，可以理解和生成类似人类语言的对话。 |
+| [New Bing](https://www.bing.com/new) | 新必应提供可靠的最新结果，并提供问题的完整答案。当然，它还会引用来源。 |
+| [Google Bard](https://bard.google.com/) | Bard 是谷歌在一个大型语言模型基础上，推出的聊天机器人。Bard 背后的力量是 Google 的对话应用语言模型，又名 LaMDA。Bard 是基于 LaMDA 的轻量级版本，使用更少的计算能力，使其能够扩展到更多的人，并提供额外的反馈。 |
+| [文心一言](https://yiyan.baidu.com/welcome) | 百度全新一代知识增强大语言模型，文心大模型家族的新成员，能够与人对话互动，回答问题，协助创作，高效便捷地帮助人们获取信息、知识和灵感。 |
+| [ChitGPT](https://so.csdn.net/so/ask) | 由 CSDN 研发的生成式 AI 产品 ChitGPT |
+| [通义千问](https://tongyi.aliyun.com/) | 阿里的大模型 |
+
 
 ## 绘画
 
