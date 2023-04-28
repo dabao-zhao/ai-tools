@@ -1,5 +1,7 @@
 # AI 应用
 
+[这个比我这个好啊！](https://github.com/ai-collection/ai-collection)
+
 ## 聊天
 
 ### [ChatGPT](https://chat.openai.com/)  
