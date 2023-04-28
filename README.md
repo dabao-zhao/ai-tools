@@ -35,6 +35,8 @@ ChatPDF 能够快速解析 PDF 文件内容，生成准确的答案以回答你�
 Notion是一款集成了笔记、知识库、数据表格、看板、日历等多种能力于一体的应用程序，它支持个人用户单独使用，也可以与他人进行跨平台协作。
 ### [AI 法律助手](https://github.com/lvwzhen/law-cn-ai)
 AI 法律助手
+### [pdfGPT](https://github.com/bhaskatripathi/pdfGPT)
+功能和 ChatPDF 类似，不过是个开源版本，可以自己搭建
 
 ## 客户端
 ### [lencx/ChatGPT](https://github.com/lencx/ChatGPT)
